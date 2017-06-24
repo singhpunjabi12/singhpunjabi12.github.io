@@ -1,0 +1,48 @@
+<style type="text/css">
+<!--
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #42413C;
+	margin: 0;
+	padding: 0;
+	color: #000;
+    
+}
+
+#TV
+{
+font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color:
+	margin: 0;
+	padding: 0;
+	color: #800000;
+	font-size: 11px;
+    
+}body{
+background-image: url("images/background2.png");
+}
+#header{
+background-color:grey;
+width:500px; 
+ }
+#topic{
+color:Red
+}
+
+#header{
+	background-color:black;
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	
+}
+#head{
+background-color:#ffffff;
+background-image: url("images/hh2.png");
+}
+#blockquote 
+{font-size: 20px;
+}
+
+#maintext{
+background-color="#800000";
+	}
+</style>
